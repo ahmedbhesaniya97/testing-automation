@@ -1,6 +1,6 @@
 {
   "name": "testing-automation",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ahmedbhesaniya97/testing-automation/issues"
   },
-  "homepage": "https://github.com/ahmedbhesaniya97/testing-automation#readme"
+  "homepage": "https://github.com/ahmedbhesaniya97/testing-automation#readme",
+  "devDependencies": {
+    "semantic-release": "^14.17"
+  }
 }
