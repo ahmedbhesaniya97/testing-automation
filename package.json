@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ahmedbhesaniya97/testing-automation/issues"
   },
+  "devDependencies": {
+    "semantic-release": "^17.0.4"
+  },
   "homepage": "https://github.com/ahmedbhesaniya97/testing-automation#readme"
 }
