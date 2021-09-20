@@ -2,6 +2,6 @@ const hello = () => {
   console.log("hello world");
 };
 
-export default {
+export default { 
   hello,
 };
