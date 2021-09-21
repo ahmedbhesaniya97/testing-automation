@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
   "name": "testing-automation123",
   "version": "0.0.14",
-=======
-  "name": "testing-automation",
-  "version": "0.0.0-development",
->>>>>>> 28f337fc4327fa3caed947f5427b605c3594b5fa
   "description": "",
   "main": "index.js",
   "scripts": {
